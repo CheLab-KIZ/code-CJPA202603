@@ -8,7 +8,7 @@ library(ggplot2)
 library(MASS)      # 提供 boxcox() 函数，用于寻找最佳变换指数
 
 # 2. 读取并清洗数据
-file_path <- "F:/for_R/paper_mating_tacitcs_for_genetic_diversity/re_ana/breeding/body_size_of_breeding_and_non-breeding.csv"
+file_path <- "body_size_of_breeding_and_non-breeding.csv"
 data <- read.csv(file_path, header = TRUE, fileEncoding = "UTF-8-BOM")
 
 data$Breeding_tactics <- as.factor(data$Breeding_tactics)
@@ -63,7 +63,7 @@ library(lme4)
 library(lmerTest)
 
 # 1. 读取数据并确保分类变量是因子
-file_path <- "F:/for_R/paper_mating_tacitcs_for_genetic_diversity/re_ana/breeding/body_size_of_breeding_and_non-breeding.csv"
+file_path <- "body_size_of_breeding_and_non-breeding.csv"
 data <- read.csv(file_path, header = TRUE, fileEncoding = "UTF-8-BOM")
 
 data$Breeding_tactics <- as.factor(data$Breeding_tactics)
