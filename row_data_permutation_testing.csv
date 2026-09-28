@@ -1,0 +1,18 @@
+MaleID,Stream,Season,Den,Tactic ,Total length (m),Body weight (kg),Body mass condition
+M4,Stream1,1,D10,Territorial,1.44,23.1,11.14
+M3,Stream1,1,D10,Sneaker,1.27,18.1,11.22 
+M5,Stream1,1,D10,Sneaker,1.28,17.2,10.5
+M6,Stream1,1,D10,Sneaker,1.32,17.3,9.93
+M7,Stream1,1,D10,Sneaker,U,16,U
+M9,Stream1,1,D10,Sneaker,1.27,15.7,9.73
+M10,Stream1,1,D10,Sneaker,1.12,16.7,13.31
+M12,Stream2,1,D13,Sneaker,1.18,13.7,9.84
+M13,Stream2,1,D13,Territorial,1.27,19.7,12.21
+M1,Stream1,2,D14,Sneaker,1.47,22.1,10.23
+M14,Stream1,2,D14,Territorial,1.32,15.6,8.95
+M15,Stream2,2,D16,Sneaker,1.1,8.7,7.19
+M16,Stream2,2,D16,Territorial,1.4,18.3,9.34
+M17,Stream2,2,D16,Sneaker,1.2,11.6,8.06
+M13,Stream2,2,D17,Territorial,1.27,19.7,12.21
+M18,Stream2,2,D17,Sneaker,1.21,13.4,9.15
+M19,Stream2,2,D17,Sneaker,1.2,15.3,10.63
